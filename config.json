@@ -1,0 +1,11 @@
+{
+  "deadman": {
+    "prazo_horas": 48,
+    "mensagem": "Alerta automático: eu não confirmei presença dentro do prazo combinado. Por favor, entre em contato ou tome a ação combinada.",
+    "api_token": "TROQUE-ISSO-POR-UM-TOKEN-SECRETO-SEU"
+  },
+  "whatsapp": {
+    "telefone": "55SEUDDDNUMERO",
+    "apikey": "SUA-APIKEY-DO-CALLMEBOT"
+  }
+}
